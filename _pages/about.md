@@ -17,7 +17,7 @@ My PhD. reserach **consistently locates in** how to improve the **underwater ima
 Underwater Image Enhancement
 ------
 <p align="center">
-  <img src="/images/Framework_PFUISE.png" alt="Framework of PFUISE" width="80%">
+  <img src="/images/PFUISE-Framework.png" alt="Framework of PFUISE" width="80%">
 </p>
 
 Underwater 3D Reconstruction
