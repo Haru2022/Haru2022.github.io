@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a **final-year PhD. Candidate** from Hong Kong PolyU (AAE) and will be graduated within 2026. My PhD. Thesis is about **Promoting Visual Intelligence under Challenging Underwater Environment: From 2D to 3D Applications**. I am supervised by [Prof. Chih-yung Wen](https://www.polyu.edu.hk/aae/people/academic-staff/ir-prof-wen-chih-yung/) and co-supervised by [Prof. Bing Wang](https://bingcs.github.io/). Before I pursuit my doctoral degree, I received a master degree with **distinction** also from PolyU supervised by [Prof. Boyang Li](https://boyangli.com/team/) in 2023, and a bachelor degree from Nanjing University of Aeronautics and Astronautics (NUAA) supervised by [Prof. Meng Yu](https://scholar.google.com/citations?user=nGZhpS4AAAAJ&hl=zh-CN) in 2019.  
+I'm currently a **final-year PhD. Candidate** from Hong Kong PolyU (AAE) and will be graduated within 2026. My PhD. Thesis is about **Promoting Visual Intelligence under Challenging Underwater Environment: From 2D to 3D Applications**. I am supervised by [Prof. Chih-yung Wen](https://www.polyu.edu.hk/aae/people/academic-staff/ir-prof-wen-chih-yung/) and co-supervised by [Prof. Bing Wang](https://bingcs.github.io/). Before I pursuit my doctoral degree, I received a master degree with **distinction** also from PolyU supervised by [Prof. Boyang Li](https://boyangli.com/team/) in 2023, and a bachelor degree from Nanjing University of Aeronautics and Astronautics (NUAA) supervised by [Prof. Meng Yu](https://scholar.google.com/citations?user=nGZhpS4AAAAJ&hl=zh-CN) in 2019. I also worked as a research assistant at Dept. of Automation, Tsinghua University from 2019 to 2021, supervised by [Zhang Chen](https://www.au.tsinghua.edu.cn/info/1081/3094.htm). 
 
 Research Focus
 ======
@@ -100,6 +100,5 @@ Selected Publications
 - **RQUL-UIE: Revitalizing Quality-Unstable Labels for Underwater Image Enhancement via In-Dataset Self-Supervision**<br> **Haochen Hu**, Yanrui Bin, Chih-yung Wen, Bing Wang* 
   *Prepared to submitted tot CVPR 2027*.  
   [[Paper]](https://arxiv.org/abs/2606.06176) [[Code](https://github.com/Haru2022/RQUL-UIE/tree/main)]
-
 
 
