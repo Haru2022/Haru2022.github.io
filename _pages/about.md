@@ -53,7 +53,12 @@ My PhD. reserach **consistently locates in** how to improve the **underwater ima
   2. a fourier-based texture refinement to for multi-view consistent texture preservation. 
   
 ![Framework of RQUL-UIE](/images/RQUL-Framework.png)
-![Visual Results](/images/Final_Visualization.png)
+![Visual Results](/images/vis_comp_exp.png)
+<p align="center">
+  <video src="/images/Curasao_merged.mp4" controls autoplay muted loop playsinline width="80%">
+    您的浏览器不支持播放该视频。
+  </video>
+</p>
 
 For those users that need more advanced functionality, the template also supports the following popular tools:
 - [MathJax](https://www.mathjax.org/) for mathematical equations
