@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[[English Version]()]
+[[English Version](/files/CV.pdf)]
 [[Chinese Version]()]
 
 <!-- Education
