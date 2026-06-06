@@ -9,11 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+[[English Version]()]
+[[Chinese Version]()]
+
+<!-- Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D, The Hong Kong Polytechnic University, 2026 (expected)
+* M.S. in Mechanical Engineering, The Hong Kong Polytechnic University, 2023
+* B.E. in Aircraft Design and Engineering (Aerospace), Nanjing University of Aeronautics and Astronautics, 2019
 
 Work experience
 ======
@@ -21,16 +24,6 @@ Work experience
   * GitHub University
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
@@ -45,9 +38,9 @@ Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
@@ -61,4 +54,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->

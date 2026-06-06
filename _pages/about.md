@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a **final-year PhD. Candidate** from Hong Kong PolyU (AAE) and will be graduated within 2026. My PhD. Thesis is about **Promoting Underwater Visual Intelligence: From 2D to 3D Applications**. I am supervised by [Prof. Chih-yung Wen](https://www.polyu.edu.hk/aae/people/academic-staff/ir-prof-wen-chih-yung/) and co-supervised by [Prof. Bing Wang](https://bingcs.github.io/). Before I pursuit my doctoral degree, I received a master degree with **distinction** also from PolyU supervised by [Prof. Boyang Li](https://boyangli.com/team/) in 2023, and a bachelor degree from Nanjing University of Aeronautics and Astronautics (NUAA) supervised by [Prof. Meng Yu](https://scholar.google.com/citations?user=nGZhpS4AAAAJ&hl=zh-CN) in 2019.  
+I'm currently a **final-year PhD. Candidate** from Hong Kong PolyU (AAE) and will be graduated within 2026. My PhD. Thesis is about **Promoting Visual Intelligence under Challenging Underwater Environment: From 2D to 3D Applications**. I am supervised by [Prof. Chih-yung Wen](https://www.polyu.edu.hk/aae/people/academic-staff/ir-prof-wen-chih-yung/) and co-supervised by [Prof. Bing Wang](https://bingcs.github.io/). Before I pursuit my doctoral degree, I received a master degree with **distinction** also from PolyU supervised by [Prof. Boyang Li](https://boyangli.com/team/) in 2023, and a bachelor degree from Nanjing University of Aeronautics and Astronautics (NUAA) supervised by [Prof. Meng Yu](https://scholar.google.com/citations?user=nGZhpS4AAAAJ&hl=zh-CN) in 2019.  
 
 Research Focus
 ======
@@ -85,19 +85,19 @@ My PhD. reserach **consistently locates in** enhancing the **underwater images d
 Selected Publications
 =====
 
-- **Underwater sequential images enhancement via diffusion and physics priors fusion**<br> **Haochen Hu**, Yanrui Bin, Chih-yung Wen, Bing Wang  
+- **Underwater sequential images enhancement via diffusion and physics priors fusion**<br> **Haochen Hu**, Yanrui Bin, Chih-yung Wen, Bing Wang*  
   *Information Fusion **IF:15.5***.  
   [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S1566253525004385)
 
-- **Fusing Transferred Priors and Physics-based Decomposition for Underwater Image Enhancement**<br> **Haochen Hu**, Yanrui Bin, Zhengyan Zhang, Minchen Wei, Chih-yung Wen, Bing Wang  
+- **Fusing Transferred Priors and Physics-based Decomposition for Underwater Image Enhancement**<br> **Haochen Hu**, Yanrui Bin, Zhengyan Zhang, Minchen Wei, Chih-yung Wen, Bing Wang*  
   *Information Fusion **IF:15.5** (major revision)*.  
   [[Paper]](https://arxiv.org/abs/xxxx.xxxxx) [[Code](https://github.com/Haru2022/P2-UIE)]
 
-- **NVS-UIE: Diffusion UIE towards Novel View Synthesis via Physics-Aligned Frequency Fusion**<br> **Haochen Hu**, Yanze Lu, Yuanbo Xue, Zhengyan Zhang, Shu Yang, Chih-yung Wen, Bing Wang  
+- **NVS-UIE: Diffusion UIE towards Novel View Synthesis via Physics-Aligned Frequency Fusion**<br> **Haochen Hu**, Yanze Lu, Yuanbo Xue, Zhengyan Zhang, Shu Yang, Chih-yung Wen, Bing Wang*  
   *Visual Intelligence (minor revision)*.  
   [[Paper]](https://arxiv.org/abs/xxxx.xxxxx)
 
-- **RQUL-UIE: Revitalizing Quality-Unstable Labels for Underwater Image Enhancement via In-Dataset Self-Supervision**<br> **Haochen Hu**, Yanrui Bin, Chih-yung Wen, Bing Wang  
+- **RQUL-UIE: Revitalizing Quality-Unstable Labels for Underwater Image Enhancement via In-Dataset Self-Supervision**<br> **Haochen Hu**, Yanrui Bin, Chih-yung Wen, Bing Wang* 
   *Prepared to submitted tot CVPR 2027*.  
   [[Paper]](https://arxiv.org/abs/2606.06176) [[Code](https://github.com/Haru2022/RQUL-UIE/tree/main)]
 
