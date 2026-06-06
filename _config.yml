@@ -9,14 +9,14 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "PhD. Candidate"
+title                    : "Haochen Hu - PhD Candidate"
 title_separator          : "-"
 name                     : &name "Haochen Haru HU"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Underwater Vision: Enhancement & 3D Reconstruction"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://Haru2022.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Haru2022/haochen-haru-hu.github.io"
+repository               : "Haru2022/Haru2022.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
