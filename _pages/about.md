@@ -71,7 +71,11 @@ My PhD. reserach **consistently locates in** how to improve the **underwater ima
 <p align="center">
   <img src="/images/RQUL-Framework.png" alt="Framework of RQUL-UIE" width="60%">
 </p>
-![Visual Results](/images/vis_comp_exp.png)
+
+<p align="center">
+  <img src="/images/vis_comp_exp.png" alt="Visual Results" width="60%">
+</p>
+
 <p align="center">
   <video src="/images/output.mp4" controls autoplay muted loop playsinline width="80%">
     您的浏览器不支持播放该视频。
