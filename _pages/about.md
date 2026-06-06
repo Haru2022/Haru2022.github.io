@@ -14,19 +14,46 @@ Research Focus
 
 My PhD. reserach **consistently locates in** how to improve the **underwater images degraded by water medium** (including color-bias, low-contrast, and blur effects that weaken the vision-based tasks) to support both 2D visual evaluation and downstream 3D reconstruction. Specifically, I've spent much effort to solve the issues of **label noise** and **multi-view inconsistency** that impair the model performance by physics-informed and learning-based strategies.
 
-Underwater Image Enhancement
+2D Evaluation-oriented Enhancement
 ------
+- **Underwater sequential images enhancement via diffusion and physics priors fusion**
+
+  This work focouses on:
+  1. leveraging diffusion prior to achieve SOTA performance from only synthetic data;
+  2. full physics-based synthesis for improving visual clarity. 
 
 ![Framework of PF-UISE](/images/PFUISE-Framework.png)
+![Visual Results](/images/time_consistency.jpg)
 
+- **Fusing Transferred Priors and Physics-based Decomposition for Underwater Image Enhancement**
+
+  This work focuses on:
+  1. transfer-learning from multiple data/model priors to avoid noisy label issue;
+  2. Physics-based task decomposition to provide theoretical soundness.
+   
 ![Framework of P2-UIE](/images/P2UIE-Framework.png)
+![Visual Results](/images/LabelBiasComp.png)
 
-Underwater 3D Reconstruction
+3D Reconstruction-oriented Enhancement
 ------
 
-![Framework of NVS-UIE](/images/NVSUIE-Framework.png)
+- **NVS-UIE: Diffusion UIE towards Novel View Synthesis via Physics-Aligned Frequency Fusion**
 
+  This work focuses on:
+  1. frequency-fusion strategy to preserve the texture details;
+  2. physics-controlled sequential image synthesis to improve the multi-view consistency.
+   
+![Framework of NVS-UIE](/images/NVSUIE-Framework.png)
+![Visual Results](/images/Final_Visualization.png)
+
+- **RQUL-UIE: Revitalizing Quality-Unstable Labels for Underwater Image Enhancement via In-Dataset Self-Supervision**
+
+  This work focuses on:
+  1. label quality quantization to fully utilize the quality-unstable labels;
+  2. a fourier-based texture refinement to for multi-view consistent texture preservation. 
+  
 ![Framework of RQUL-UIE](/images/RQUL-Framework.png)
+![Visual Results](/images/Final_Visualization.png)
 
 For those users that need more advanced functionality, the template also supports the following popular tools:
 - [MathJax](https://www.mathjax.org/) for mathematical equations
