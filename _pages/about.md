@@ -12,7 +12,7 @@ I'm currently a **final-year PhD. Candidate** from Hong Kong PolyU (AAE) and wil
 Research Focus
 ======
 
-My PhD. reserach **consistently locates in** enhancing the **underwater images degraded by water medium** (including color-bias, low-contrast, and blur effects that weaken the vision-based tasks) to support both <u>2D visual evaluation and downstream 3D reconstruction</u>. Specifically, I've spent much effort to solve the issues of **label noise** and **multi-view inconsistency** that impair the model performance by physics-informed and learning-based strategies.
+My PhD. research **consistently locates in** enhancing the **underwater images degraded by water medium** (including color-bias, low-contrast, and blur effects that weaken the vision-based tasks) to support both <u>2D visual evaluation and downstream 3D reconstruction</u>. Specifically, I've spent much effort to solve the issues of **label noise** and **multi-view inconsistency** that impair the model performance by physics-informed and learning-based strategies.
 
 2D Evaluation-oriented Enhancement
 ------
