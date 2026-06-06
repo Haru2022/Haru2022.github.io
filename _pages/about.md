@@ -55,7 +55,7 @@ My PhD. reserach **consistently locates in** how to improve the **underwater ima
 ![Framework of RQUL-UIE](/images/RQUL-Framework.png)
 ![Visual Results](/images/vis_comp_exp.png)
 <p align="center">
-  <video src="/images/Curasao_merged.mp4" controls autoplay muted loop playsinline width="80%">
+  <video src="/images/output.mp4" controls autoplay muted loop playsinline width="80%">
     您的浏览器不支持播放该视频。
   </video>
 </p>
