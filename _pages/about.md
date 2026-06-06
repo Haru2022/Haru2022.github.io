@@ -17,27 +17,16 @@ My PhD. reserach **consistently locates in** how to improve the **underwater ima
 Underwater Image Enhancement
 ------
 
+![Framework of PF-UISE](/images/PFUISE-Framework.png)
 
-<p align="center">
-  <img src="/images/PFUISE-Framework.png" alt="Framework of PF-UISE" width="80%">
-</p>
-
-
-<p align="center">
-  <img src="/images/P2UIE-Framework.png" alt="Framework of P2-UIE" width="80%">
-</p>
-
+![Framework of P2-UIE](/images/P2UIE-Framework.png)
 
 Underwater 3D Reconstruction
 ------
 
-<p align="center">
-  <img src="/images/NVSUIE-Framework.png" alt="Framework of NVS-UIE" width="80%">
-</p>
+![Framework of NVS-UIE](/images/NVSUIE-Framework.png)
 
-<p align="center">
-  <img src="/images/RQUL-Framework.png" alt="Framework of RQUL-UIE" width="80%">
-</p>
+![Framework of RQUL-UIE](/images/RQUL-Framework.png)
 
 For those users that need more advanced functionality, the template also supports the following popular tools:
 - [MathJax](https://www.mathjax.org/) for mathematical equations
