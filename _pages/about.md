@@ -18,12 +18,17 @@ My PhD. reserach **consistently locates in** how to improve the **underwater ima
 ------
 - **Underwater sequential images enhancement via diffusion and physics priors fusion**
 
-  This work focouses on:
+  This work focuses on:
   1. leveraging diffusion prior to achieve SOTA performance from only synthetic data;
   2. full physics-based synthesis for improving visual clarity. 
 
-![Framework of PF-UISE](/images/PFUISE-Framework.png)
-![Visual Results](/images/time_consistency.jpg)
+<p align="center">
+  <img src="/images/PFUISE-Framework.png" alt="Framework of PF-UISE" width="60%">
+</p>
+
+<p align="center">
+  <img src="/images/time_consistency.jpg" alt="Visual Results" width="60%">
+</p>
 
 - **Fusing Transferred Priors and Physics-based Decomposition for Underwater Image Enhancement**
 
@@ -31,8 +36,14 @@ My PhD. reserach **consistently locates in** how to improve the **underwater ima
   1. transfer-learning from multiple data/model priors to avoid noisy label issue;
   2. Physics-based task decomposition to provide theoretical soundness.
    
-![Framework of P2-UIE](/images/P2UIE-Framework.png)
-![Visual Results](/images/LabelBiasComp.png)
+<p align="center">
+  <img src="/images/P2UIE-Framework.png" alt="Framework of P2-UIE" width="60%">
+</p>
+
+<p align="center">
+  <img src="/images/LabelBiasComp.png" alt="Visual Results" width="60%">
+</p>
+
 
 3D Reconstruction-oriented Enhancement
 ------
@@ -43,8 +54,13 @@ My PhD. reserach **consistently locates in** how to improve the **underwater ima
   1. frequency-fusion strategy to preserve the texture details;
   2. physics-controlled sequential image synthesis to improve the multi-view consistency.
    
-![Framework of NVS-UIE](/images/NVSUIE-Framework.png)
-![Visual Results](/images/Final_Visualization.png)
+<p align="center">
+  <img src="/images/NVSUIE-Framework.png" alt="Framework of NVS-UIE" width="60%">
+</p>
+
+<p align="center">
+  <img src="/images/Final_Visualization.png" alt="Visual Results" width="60%">
+</p>
 
 - **RQUL-UIE: Revitalizing Quality-Unstable Labels for Underwater Image Enhancement via In-Dataset Self-Supervision**
 
@@ -52,7 +68,9 @@ My PhD. reserach **consistently locates in** how to improve the **underwater ima
   1. label quality quantization to fully utilize the quality-unstable labels;
   2. a fourier-based texture refinement to for multi-view consistent texture preservation. 
   
-![Framework of RQUL-UIE](/images/RQUL-Framework.png)
+<p align="center">
+  <img src="/images/RQUL-Framework.png" alt="Framework of RQUL-UIE" width="60%">
+</p>
 ![Visual Results](/images/vis_comp_exp.png)
 <p align="center">
   <video src="/images/output.mp4" controls autoplay muted loop playsinline width="80%">
@@ -75,7 +93,7 @@ Selected Publications
   *Visual Intelligence (minor review)*.  
   [[Paper]](https://arxiv.org/abs/xxxx.xxxxx)
 
-- **Revitalizing Quality-Unstable Labels for Underwater Image Enhancement via In-Dataset Self-Supervision**<br> **Haochen Hu**, Yanrui Bin, Chih-yung Wen, Bing Wang  
+- **RQUL-UIE: Revitalizing Quality-Unstable Labels for Underwater Image Enhancement via In-Dataset Self-Supervision**<br> **Haochen Hu**, Yanrui Bin, Chih-yung Wen, Bing Wang  
   *Prepared to submitted tot CVPR 2027*.  
   [[Paper]](https://arxiv.org/abs/2606.06176)
 
