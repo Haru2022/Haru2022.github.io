@@ -34,7 +34,7 @@ My PhD. research **consistently locates in** enhancing the **underwater images d
 </p>
 
 <p align="center">
-  <img src="/images/time_consistency.jpg" alt="Visual Results" width="60%">
+  <img src="/images/PFUISE-res.png" alt="Visual Results" width="60%">
 </p>
 
 - **Fusing Transferred Priors and Physics-based Decomposition for Underwater Image Enhancement**
@@ -97,7 +97,7 @@ Selected Publications
   [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S1566253525004385)
 
 - **Fusing Transferred Priors and Physics-based Decomposition for Underwater Image Enhancement**<br> **Haochen Hu**, Yanrui Bin, Zhengyan Zhang, Minchen Wei, Chih-yung Wen, Bing Wang*  
-  *Information Fusion **IF:15.5** (major revision)*.  
+  *Information Fusion **IF:15.5** (Major revision)*.  
   [[Paper]](https://arxiv.org/abs/xxxx.xxxxx) [[Code](https://github.com/Haru2022/P2-UIE)]
 
 - **NVS-UIE: Diffusion UIE towards Novel View Synthesis via Physics-Aligned Frequency Fusion**<br> **Haochen Hu**, Yanze Lu, Yuanbo Xue, Zhengyan Zhang, Shu Yang, Chih-yung Wen, Bing Wang*  
