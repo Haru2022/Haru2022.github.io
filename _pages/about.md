@@ -9,14 +9,15 @@ redirect_from:
 
 I'm currently a **final-year PhD. Candidate** from Hong Kong PolyU (AAE) and will be graduated within 2026. My PhD. Thesis is about **Promoting Visual Intelligence under Challenging Underwater Environment: From 2D to 3D Applications**. I am supervised by [Prof. Chih-yung Wen](https://www.polyu.edu.hk/aae/people/academic-staff/ir-prof-wen-chih-yung/) and co-supervised by [Prof. Bing Wang](https://bingcs.github.io/). Before I pursuit my doctoral degree, I received a master degree with **distinction** also from PolyU supervised by [Prof. Boyang Li](https://boyangli.com/team/) in 2023, and a bachelor degree from Nanjing University of Aeronautics and Astronautics (NUAA) supervised by [Prof. Meng Yu](https://scholar.google.com/citations?user=nGZhpS4AAAAJ&hl=zh-CN) in 2019. I also worked as a research assistant at Dept. of Automation, Tsinghua University from 2019 to 2021, supervised by [Prof. Zhang Chen](https://www.au.tsinghua.edu.cn/info/1081/3094.htm). 
 
-<p align="center">
-  <img src="/images/PhD_Framework.png" alt="Framework of PhD. Thesis" width="60%">
-</p>
-
 Research Focus
 ======
 
 My PhD. research **consistently locates in** enhancing the **underwater images degraded by water medium** (including color-bias, low-contrast, and blur effects that weaken the vision-based tasks) to support both <u>2D visual evaluation and downstream 3D reconstruction</u>. Specifically, I've spent much effort to solve the issues of **label noise** and **multi-view inconsistency** that impair the model performance by physics-informed and learning-based strategies.
+
+
+<p align="center">
+  <img src="/images/PhD_Framework.png" alt="Framework of PhD. Thesis" width="70%">
+</p>
 
 2D Evaluation-oriented Enhancement
 ------
