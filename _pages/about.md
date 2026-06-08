@@ -101,7 +101,7 @@ Selected Publications
   [[Paper]](https://arxiv.org/abs/xxxx.xxxxx) [[Code](https://github.com/Haru2022/P2-UIE)]
 
 - **NVS-UIE: Diffusion UIE towards Novel View Synthesis via Physics-Aligned Frequency Fusion**<br> **Haochen Hu**, Yanze Lu, Yuanbo Xue, Zhengyan Zhang, Shu Yang, Chih-yung Wen, Bing Wang*  
-  *Visual Intelligence (minor revision)*.  
+  *Visual Intelligence (Early accepted)*.  
   [[Paper]](https://arxiv.org/abs/xxxx.xxxxx)
 
 - **RQUL-UIE: Revitalizing Quality-Unstable Labels for Underwater Image Enhancement via In-Dataset Self-Supervision**<br> **Haochen Hu**, Yanrui Bin, Chih-yung Wen, Bing Wang* 
