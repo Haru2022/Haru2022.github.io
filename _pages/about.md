@@ -97,7 +97,7 @@ Selected Publications
   [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S1566253525004385)
 
 - **Fusing Transferred Priors and Physics-based Decomposition for Underwater Image Enhancement**<br> **Haochen Hu**, Yanrui Bin, Zhengyan Zhang, Minchen Wei, Chih-yung Wen, Bing Wang*  
-  *Information Fusion **IF:15.5** (Major revision)*.  
+  *Information Fusion **IF:15.5** (Early accepted)*.  
   [[Paper]](https://arxiv.org/abs/xxxx.xxxxx) [[Code](https://github.com/Haru2022/P2-UIE)]
 
 - **NVS-UIE: Diffusion UIE towards Novel View Synthesis via Physics-Aligned Frequency Fusion**<br> **Haochen Hu**, Yanze Lu, Yuanbo Xue, Zhengyan Zhang, Shu Yang, Chih-yung Wen, Bing Wang*  
