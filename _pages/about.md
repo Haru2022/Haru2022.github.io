@@ -92,20 +92,21 @@ My PhD. research **consistently locates in** enhancing the **underwater images d
 Selected Publications
 =====
 
-- **Underwater sequential images enhancement via diffusion and physics priors fusion**<br> **Haochen Hu**, Yanrui Bin, Chih-yung Wen, Bing Wang*  
-  *Information Fusion **IF:15.5***.  
-  [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S1566253525004385)
 
+- **RQUL-UIE: Revitalizing Quality-Unstable Labels for Underwater Image Enhancement via In-Dataset Self-Supervision**<br> **Haochen Hu**, Yanrui Bin, Chih-yung Wen, Bing Wang* 
+  *Prepared to submitted tot CVPR 2027*.  
+  [[Paper]](https://arxiv.org/abs/2606.06176) [[Code](https://github.com/Haru2022/RQUL-UIE)]
+  
 - **Fusing Transferred Priors and Physics-based Decomposition for Underwater Image Enhancement**<br> **Haochen Hu**, Yanrui Bin, Zhengyan Zhang, Minchen Wei, Chih-yung Wen, Bing Wang*  
   *Information Fusion **IF:15.5** (Early accepted)*.  
   [[Paper]](https://arxiv.org/abs/xxxx.xxxxx) [[Code](https://github.com/Haru2022/P2-UIE)]
 
+- **Underwater sequential images enhancement via diffusion and physics priors fusion**<br> **Haochen Hu**, Yanrui Bin, Chih-yung Wen, Bing Wang*  
+  *Information Fusion **IF:15.5***.  
+  [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S1566253525004385)
+
 - **NVS-UIE: Diffusion UIE towards Novel View Synthesis via Physics-Aligned Frequency Fusion**<br> **Haochen Hu**, Yanze Lu, Yuanbo Xue, Zhengyan Zhang, Shu Yang, Chih-yung Wen, Bing Wang*  
   *Visual Intelligence (Early accepted)*.  
   [[Paper]](https://arxiv.org/abs/xxxx.xxxxx)
-
-- **RQUL-UIE: Revitalizing Quality-Unstable Labels for Underwater Image Enhancement via In-Dataset Self-Supervision**<br> **Haochen Hu**, Yanrui Bin, Chih-yung Wen, Bing Wang* 
-  *Prepared to submitted tot CVPR 2027*.  
-  [[Paper]](https://arxiv.org/abs/2606.06176) [[Code](https://github.com/Haru2022/RQUL-UIE/tree/main)]
 
 
