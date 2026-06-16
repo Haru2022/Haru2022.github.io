@@ -99,7 +99,7 @@ Selected Publications
   
 - **Fusing Transferred Priors and Physics-based Decomposition for Underwater Image Enhancement**<br> **Haochen Hu**, Yanrui Bin, Zhengyan Zhang, Minchen Wei, Chih-yung Wen, Bing Wang*  
   *Information Fusion **IF:15.5** (Early accepted)*.  
-  [[Paper]](https://arxiv.org/abs/xxxx.xxxxx) [[Code](https://github.com/Haru2022/P2-UIE)]
+  [[Paper]](https://arxiv.org/abs/2606.15648) [[Code](https://github.com/Haru2022/P2-UIE)]
 
 - **Underwater sequential images enhancement via diffusion and physics priors fusion**<br> **Haochen Hu**, Yanrui Bin, Chih-yung Wen, Bing Wang*  
   *Information Fusion **IF:15.5***.  
